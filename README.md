@@ -20,7 +20,7 @@ Loaded the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com
 
 **Figure 1: Olist Dataset Table Relationships**
 
-![Image Alt]()
+![Image Alt](https://github.com/3bdullah-waleed/mlops-training-2026/blob/555dfefe43ba4348af17c8a28db841c5b6640e22/HRhd2Y0.png)
 
 Shows the 9 raw tables in the dataset and the keys that connect them: `order_id`, `customer_id`, `product_id`, `seller_id`, and `zip_code_prefix`.
 
