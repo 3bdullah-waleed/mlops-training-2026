@@ -48,7 +48,7 @@ Creating the `customers` table inside the running Postgres container via `psql`.
 
 **Figure 4: Container Running With All Tables Inside**
 
-![Image Alt]()
+![Image Alt](https://github.com/3bdullah-waleed/mlops-training-2026/blob/142911e84c123ee8083e9f3b346b398f0f6515e5/Screenshot%202026-08-08%20195605.png)
 
 The `olist-postgres` container running in Docker Desktop, with all 9 tables visible via `\dt` in the container's Exec terminal.
 
