@@ -4,9 +4,9 @@ Hands-on tasks from the MLOps Training 2026/2027 track.
 
 ## Tasks
 
-| # | Task | Status |
-|---|---|---|
-| 1 | [Get the Data Into a Database](#task-1--get-the-data-into-a-database) | ✅ Done |
+| # | Task | 
+|---|---|
+| 1 | [Get the Data Into a Database](#task-1--get-the-data-into-a-database) |
 
 ---
 
