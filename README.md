@@ -60,7 +60,7 @@ The `olist-postgres` container running in Docker Desktop, with all 9 tables visi
 
 **Figure 6: Loading Data**
 
-![Image Alt]()
+![Image Alt](https://github.com/3bdullah-waleed/mlops-training-2026/blob/fb8fd1249c8511bbc29e4003b3e6e5cd6cdbdde7/Screenshot%202026-08-08%20200420.png)
 
 Loading the `customers` CSV into the `customers` table with `\copy` — 99,441 rows inserted. The same `\copy` process was repeated for the remaining 8 tables, each loaded successfully with its full row count.
 
