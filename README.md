@@ -20,13 +20,13 @@ Loaded the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com
 
 **Figure 1: Olist Dataset Table Relationships**
 
-*(figure placeholder)*
+![Image Alt]()
 
 Shows the 9 raw tables in the dataset and the keys that connect them: `order_id`, `customer_id`, `product_id`, `seller_id`, and `zip_code_prefix`.
 
 **Figure 2: Order Lifecycle — From Customer to Review**
 
-*(figure placeholder)*
+![Image Alt]()
 
 Reframes the same schema as a business process: a customer places an order, the order contains items (products from sellers), the order is paid for, and after delivery it's reviewed — with customers and sellers both tied back to a shared geolocation table.
 
@@ -42,31 +42,31 @@ Reframes the same schema as a business process: a customer places an order, the 
 
 **Figure 3: Schema Creation**
 
-*(figure placeholder)*
+![Image Alt]()
 
 Creating the `customers` table inside the running Postgres container via `psql`.
 
 **Figure 4: Container Running With All Tables Inside**
 
-*(figure placeholder)*
+![Image Alt]()
 
 The `olist-postgres` container running in Docker Desktop, with all 9 tables visible via `\dt` in the container's Exec terminal.
 
 **Figure 5: Full Table List**
 
-*(figure placeholder)*
+![Image Alt]()
 
 `\dt` output confirming all 9 tables exist inside the `olist` database.
 
 **Figure 6: Loading Data**
 
-*(figure placeholder)*
+![Image Alt]()
 
 Loading the `customers` CSV into the `customers` table with `\copy` — 99,441 rows inserted. The same `\copy` process was repeated for the remaining 8 tables, each loaded successfully with its full row count.
 
 **Figure 7: Join Across Tables**
 
-*(figure placeholder)*
+![Image Alt]()
 
 A `JOIN` between `orders` and `customers` on `customer_id`, returning combined columns from both tables.
 
