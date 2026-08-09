@@ -26,7 +26,7 @@ Shows the 9 raw tables in the dataset and the keys that connect them: `order_id`
 
 **Figure 2: Order Lifecycle — From Customer to Review**
 
-![Image Alt]()
+![Image Alt](https://github.com/3bdullah-waleed/mlops-training-2026/blob/2ebb1aa1a56fdf577091410e94a7b3ffe3c2b1f3/Order%20Lifecycle.png)
 
 Reframes the same schema as a business process: a customer places an order, the order contains items (products from sellers), the order is paid for, and after delivery it's reviewed — with customers and sellers both tied back to a shared geolocation table.
 
