@@ -72,6 +72,6 @@ A `JOIN` between `orders` and `customers` on `customer_id`, returning combined c
 
 **Figure 8: Row Count Verification**
 
-![Image Alt]()
+![Image Alt](https://github.com/3bdullah-waleed/mlops-training-2026/blob/b9ebd09460248c926c3045fee8d537aaa3546ef6/Screenshot%202026-08-08%20212504.png)
 
 `COUNT(*)` on `customers` confirms 99,441 rows, matching the number of rows loaded.
