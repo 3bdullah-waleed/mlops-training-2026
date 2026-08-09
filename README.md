@@ -72,6 +72,6 @@ A `JOIN` between `orders` and `customers` on `customer_id`, returning combined c
 
 **Figure 8: Row Count Verification**
 
-*(figure placeholder)*
+![Image Alt]()
 
 `COUNT(*)` on `customers` confirms 99,441 rows, matching the number of rows loaded.
