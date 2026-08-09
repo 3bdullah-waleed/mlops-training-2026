@@ -42,7 +42,7 @@ Reframes the same schema as a business process: a customer places an order, the 
 
 **Figure 3: Schema Creation**
 
-![Image Alt]()
+![Image Alt](https://github.com/3bdullah-waleed/mlops-training-2026/blob/c602065efd1c754c7f00fc9906675af04046129c/Screenshot%202026-08-08%20195312.png)
 
 Creating the `customers` table inside the running Postgres container via `psql`.
 
