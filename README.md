@@ -66,7 +66,7 @@ Loading the `customers` CSV into the `customers` table with `\copy` — 99,441 r
 
 **Figure 7: Join Across Tables**
 
-![Image Alt]()
+![Image Alt](https://github.com/3bdullah-waleed/mlops-training-2026/blob/521472052e1ac01f4a470dcb9ee5ed9ac3371109/Screenshot%202026-08-08%20212151.png)
 
 A `JOIN` between `orders` and `customers` on `customer_id`, returning combined columns from both tables.
 
